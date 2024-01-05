@@ -1,1 +1,1 @@
-0x10 project
+# Solutions to tasks on Python - Network #0
